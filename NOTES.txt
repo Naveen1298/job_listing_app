@@ -1,0 +1,13 @@
+
+Login Credentials are same as mentioned in the API Document
+
+"email" : "emailforapi@gigin.ai" , 
+"password" : "65$az"
+
+------------
+
+-I have implemented the login page and navigation
+-Also Job Listings implemented along with apply feature.
+-And implmented My Jobs also. When we click on Apply on Job Listings. those jobs are listed in My Jobs Section.
+-I have implemented POST Action for Login.
+-Until last I didn't notice that you have shared API document in link format. So, I used mockData to display data. But I know CRUD operations using REST API
